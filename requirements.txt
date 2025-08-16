@@ -1,0 +1,12 @@
+streamlit
+chromadb
+sentence-transformers
+pypdf
+duckdb
+scikit-learn
+numpy
+pandas
+python-dotenv
+llama-cpp-python
+openai
+ragas
